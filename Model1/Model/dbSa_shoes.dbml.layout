@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15, 16.75" name="dbSa_shoes">
+  <DataContextMoniker Name="/dbSa_shoesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="68514b2d-72b2-4679-92b2-82eceb714f8d" absoluteBounds="0.75, 0.75, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/About" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26177774-46c2-4874-ab4a-d46e90c680b2" absoluteBounds="0.765, 1.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b162b6f1-b369-480a-84c2-974b8ad00739" absoluteBounds="3.75, 0.75, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f257c2cc-80be-438f-b987-5bea35c1f91e" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad86d008-2de3-4f48-899e-9d1c97883c96" absoluteBounds="0.75, 5.75, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1104559c-3017-489c-aae0-68ab3f7c816d" absoluteBounds="0.765, 6.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2e0d3032-c3a9-4364-be85-6af0d9677a7d" absoluteBounds="3.75, 5.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Contact" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d919f3e-0f9e-43f7-aa50-6f7b511f1434" absoluteBounds="3.765, 6.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="de027fa0-f34a-4f06-b2ac-79678acd2948" absoluteBounds="6.75, 0.75, 2, 4.2708154296875">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Content" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1811b590-cc1a-4ed4-9d8c-825c19ef34f1" absoluteBounds="6.765, 1.21, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="db728617-b7d3-45de-b4fa-9a41ab38e911" absoluteBounds="6.75, 6.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/ContentTag" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a7489688-86a1-4c99-b842-356d1cc122ea" absoluteBounds="6.765, 7.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dacbdcef-d6c2-4b91-8c2b-190b9c999924" absoluteBounds="3.75, 8.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/FeedBack" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ccd9a9ae-7218-4720-b209-6c13450c67de" absoluteBounds="3.765, 9.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bb3a31f7-75d8-46fb-b5a8-9e6915f1e411" absoluteBounds="6.75, 8.75, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Footer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b807be1-ba7d-49f9-8444-2d2c28537f9f" absoluteBounds="6.765, 9.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6da3dd34-599a-44f5-ae6f-2576bc295e5a" absoluteBounds="9.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Menu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d67f30c-91ed-4381-8d6d-44262e4ca200" absoluteBounds="9.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6b49b367-bd62-460a-846f-0be2958d62ab" absoluteBounds="9.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/MenuType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aa7a2842-6016-4b08-8c8d-c122d5734891" absoluteBounds="9.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="abe6c54e-81ce-4ca8-b344-72fa9d0edadc" absoluteBounds="9.75, 5.75, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efc01cec-0539-4501-85cb-458bb087fca5" absoluteBounds="9.765, 6.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bbd56b34-2894-4749-a4b4-081a73d88814" absoluteBounds="9.75, 9.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/OrdersDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f3035bc-d10c-49a1-9c31-aca8405d217d" absoluteBounds="9.765, 10.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="929a987c-e461-4477-a36f-4b6133b849ff" absoluteBounds="12.75, 0.75, 2, 5.2323225911458326">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5512c874-9247-4d61-b39e-1247865c6535" absoluteBounds="12.765, 1.21, 1.9700000000000002, 4.672322591145833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="260f2541-5feb-41e9-b33d-8964e7bf5163" absoluteBounds="0.75, 12.75, 2, 3.6939111328124987">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/ProductCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f2649b6-1bc2-4da1-9bcb-54d9a3bff9d7" absoluteBounds="0.765, 13.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a0406d1d-c0e9-4a5c-a687-f938a87df55c" absoluteBounds="3.75, 12.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Size" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8947d011-8db5-4af8-8e30-8b2d8091a4d6" absoluteBounds="3.765, 13.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3cca230f-a71b-4695-ad77-80700d76b781" absoluteBounds="12.75, 6.75, 2, 3.1170068359375014">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/SizeShoe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b1ed372-57f1-424c-bb62-90105c2818b6" absoluteBounds="12.765, 7.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd3f8f4d-6234-40d2-ad2c-29c011a1959e" absoluteBounds="6.75, 12.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Slide" />
+      <nestedChildShapes>
+        <elementListCompartment Id="10a45b15-1881-48ad-9e63-bc8c23ce8cef" absoluteBounds="6.765, 13.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c75efe78-aa0f-4535-9f9c-1c808633d35e" absoluteBounds="9.75, 12.75, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/SystemConfig" />
+      <nestedChildShapes>
+        <elementListCompartment Id="948464cf-6ed1-4ca7-a186-315c2d7592a5" absoluteBounds="9.765, 13.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="079944ed-2b52-457b-88e1-c54ca29ab6d9" absoluteBounds="12.75, 10.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/dbSa_shoesDataContext/Tag" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e36421b2-7447-4960-ad68-1e807940b9d5" absoluteBounds="12.765, 11.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

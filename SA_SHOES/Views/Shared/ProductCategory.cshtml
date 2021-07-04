@@ -1,0 +1,27 @@
+﻿@model List<Model1.EF.ProductCategory>
+
+
+<div class="col-lg-3">
+    <h1 class="h2 pb-4">Danh mục sản phẩm</h1>
+    <ul class="list-unstyled templatemo-accordion">
+        @foreach (var item in Model.Where(x => x.ParentID == 0)) {
+            var child = Model.Where(x => x.ParentID == item.ID);
+
+       <li class="pb-3">
+            <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="/san-pham/@item.MetaTitle-@item.ID">
+                @item.Name
+            <i class="fa fa-fw fa-chevron-circle-down mt-1"></i>
+        </a>
+            @if(child.Count() > 0) {
+        <ul class="collapse show list-unstyled pl-3">
+            @foreach (var childItem in child) { 
+
+            <li><a class="text-decoration-none" href="/san-pham/@childItem.MetaTitle-@childItem.ID">@childItem.Name</a></li>
+            }
+        </ul>
+            }
+        </li>
+        }
+
+    </ul>
+</div>
